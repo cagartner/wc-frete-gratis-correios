@@ -1,11 +1,12 @@
 <?php
 /*
 Plugin Name: WC Frete Grátis para Correios
+GitHub Plugin URI: fernandoacosta/wc-frete-gratis-correios
 Description: Ofereça Frete Grátis para PAC ou SEDEX no WooCommerce
 Plugin URI: http://fernandoacosta.net
 Author: Fernanod Acosta
 Author URI: http://fernandoacosta.net
-Version: 1.0
+Version: 1.1
 License: GPL2
 */
 
