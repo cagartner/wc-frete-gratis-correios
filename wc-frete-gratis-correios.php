@@ -6,7 +6,7 @@ Description: Ofereça Frete Grátis para PAC ou SEDEX no WooCommerce
 Plugin URI: http://fernandoacosta.net
 Author: Fernanod Acosta
 Author URI: http://fernandoacosta.net
-Version: 1.0
+Version: 1.2
 License: GPL2
 */
 
