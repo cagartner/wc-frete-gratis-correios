@@ -47,8 +47,8 @@ class WC_Correios_Frete_Gratis
   function __construct()
   {
 
-    include_once( 'admin-options.php' );
-    include_once( 'apply-rules.php' );
+    include_once( 'includes/admin-options.php' );
+    include_once( 'includes/apply-rules.php' );
 
   }
 
