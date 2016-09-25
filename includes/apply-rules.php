@@ -146,7 +146,7 @@ class WC_Correios_Frete_Gratis_Apply
 
     // Get postcode rules
     $rules = $this->postcode_zones( $method );
-    update_option( 'testemaroto', $rules );
+
     // Loop into each postcode rule
     foreach ( $rules as $rule ) {
 
